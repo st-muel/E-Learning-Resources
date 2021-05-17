@@ -17,3 +17,4 @@ Below you'll find a few collated links for self-directed learning. You can start
 ## Artificial Intelligence, *without* Machine Learning
 Some people make this confusion and think that AI = ML; in reality, ML is a subset of AI. The links below provide a good example of this and hope to clear up any confusion.
 1. [Creating a Chess AI](https://www.youtube.com/watch?v=DZfv0YgLJ2Q) Interesting Note: This method is also used in Economics (Game Theory).
+2. [How do Genetic Algorithms work?](https://www.youtube.com/watch?v=VnwjxityDLQ)
