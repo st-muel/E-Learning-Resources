@@ -9,6 +9,7 @@ A lot of programming concepts are actually not unique to any one programming lan
 4. [How to program in C# \[CSharp\]](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
 
 ## Data Structures & Algorithms
+1. [Linked Lists](https://www.youtube.com/watch?v=_jQhALI4ujg)
 1. [An Introduction to Pathfinding Algorithms (Dijkstra's Algorithm)](https://www.youtube.com/watch?v=GazC3A4OQTE)
 
 ## Data Analytics
