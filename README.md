@@ -9,10 +9,11 @@ A lot of programming concepts are actually not unique to any one programming lan
 4. [How to program in C# \[CSharp\]](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
 
 ## Data Structures & Algorithms
-1. [Stacks](https://www.geeksforgeeks.org/stack-data-structure/)
-2. [Queues](https://www.geeksforgeeks.org/queue-data-structure/)
+1. [Stacks](https://www.geeksforgeeks.org/stack-data-structure)
+2. [Queues](https://www.geeksforgeeks.org/queue-data-structure)
 3. [Linked Lists](https://www.youtube.com/watch?v=_jQhALI4ujg)
-4. [An Introduction to Pathfinding Algorithms (Dijkstra's Algorithm)](https://www.youtube.com/watch?v=GazC3A4OQTE)
+4. [Sorting Algorithms](https://www.geeksforgeeks.org/sorting-algorithms) This is a list of algorithms commonly used to sort things. Let's say you have a bunch of random numbers that you want sorted in ascending order. In this case, you would use one of these sorting algorithms. In the list, more important algorithms are the first 10 (Selection Sort to Heap Sort).
+5. [An Introduction to Pathfinding Algorithms (Dijkstra's Algorithm)](https://www.youtube.com/watch?v=GazC3A4OQTE)
 
 ## Data Analytics
 1. [Data Analytics in Python \[Python\]](https://www.youtube.com/watch?v=nLw1RNvfElg&list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9)
