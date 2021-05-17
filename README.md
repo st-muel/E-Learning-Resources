@@ -30,3 +30,6 @@ Some people make this confusion and think that AI = ML; in reality, ML is a subs
 
 ## Blockchain
 1. [How does Bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t)
+
+## Extra / Fun Stuff
+1. [Program in Plays \[Shapespeare Programming Language\]](https://en.wikipedia.org/wiki/Shakespeare_Programming_Language)
