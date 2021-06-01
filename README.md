@@ -2,11 +2,11 @@
 Below you'll find a few collated links for self-directed learning. You can start out with any one that catches your eye! Some of the tutorials below are language specific, and will be marked as such. Not all links are coding related, some are basic explanations to key buzzwords that like to be thrown about so that you'll be able to have at least a brief understanding.
 
 ## Intro to Programming
-A lot of programming concepts are actually not unique to any one programming language. When going through these tutorials, keep in mind that your intention should not be to learn *Python* or *Javascript*, but rather, to learn how to program. You can think of Python as simply a tool for your programming. What is more important is how you learn to approach problems and solve them, which to me is the essence of programming.
-1. [Learning to program in Python \[Python\] (Youtube Playlist)](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
-2. [Start programming in JavaScript with p5.js \[Javascript\] (Youtube Playlist)](https://www.youtube.com/watch?v=yPWkPOfnGsw)
-3. [Learning to program in Go \[GoLang\] (Youtube Playlist)](https://www.youtube.com/watch?v=G3PvTWRIhZA&list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
-4. [How to program in C# \[CSharp\] (Youtube Playlist)](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
+A lot of programming concepts are actually not unique to any one programming language. When going through these tutorials, keep in mind that your intention should not be to learn *Python* or *Javascript*, but rather, to learn how to program. You can think of Python as simply a tool for your programming. What is more important is how you learn to approach problems and solve them, which to me is the essence of programming. Please note that each link is a Youtube playlist.
+1. [Learning to program in Python \[Python\]](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
+2. [Start programming in JavaScript with p5.js \[Javascript\]](https://www.youtube.com/watch?v=yPWkPOfnGsw)
+3. [Learning to program in Go \[GoLang\]](https://www.youtube.com/watch?v=G3PvTWRIhZA&list=PLQVvvaa0QuDeF3hP0wQoSxpkqgRcgxMqX)
+4. [How to program in C# \[CSharp\]](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
 
 ## Data Structures & Algorithms
 1. [Stacks](https://www.geeksforgeeks.org/stack-data-structure)
